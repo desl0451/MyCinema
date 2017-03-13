@@ -1,0 +1,8 @@
+D:\Work\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+D:\Work\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+D:\Work\MyCinema\MyCinema\obj\Debug\MyCinema.MainForm.resources
+D:\Work\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+D:\Work\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+D:\Work\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+D:\Work\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+D:\Work\MyCinema\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
